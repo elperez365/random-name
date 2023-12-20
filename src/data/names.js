@@ -11,4 +11,7 @@ export const names = [
   "Luca",
   "Thomas",
   "Romina",
+  "Isaia",
+  "Hichem",
+  "Federico",
 ];
