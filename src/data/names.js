@@ -8,7 +8,7 @@ export const names = [
   "Domenico",
   "Giovanni",
   "Giuseppe",
-  "Luca",
+  "Bruno",
   "Thomas",
   "Romina",
   "Isaia",

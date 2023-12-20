@@ -25,8 +25,8 @@ function App() {
       <h1>React course</h1>
       <h2>extract a random name</h2>
       <div className="card">
-        <button onClick={handleRandomName}>Click here</button>
         {randomName && <h3>{randomName}</h3>}
+        <button onClick={handleRandomName}>Click here</button>
       </div>
     </>
   );
